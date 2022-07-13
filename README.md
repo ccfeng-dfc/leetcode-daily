@@ -46,3 +46,10 @@
 - **29 (五)** 
 - **30 (六)**
 - **31 (日)**
+
+## 2022-06
+---
+
+- **27 (一)** 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+
+---
