@@ -22,7 +22,7 @@
 - **11 (一)** 199. Binary Tree Right Side View
 - **12 (二)** 473. Matchsticks to Square
 - **13 (三)** 102. Binary Tree Level Order Traversal
-- **14 (四)** 
+- **14 (四)** 105. Construct Binary Tree from Preorder and Inorder Traversal
 - **15 (五)** 
 - **16 (六)**
 - **17 (日)**
