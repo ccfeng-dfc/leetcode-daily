@@ -24,7 +24,7 @@
 - **13 (三)** 102. Binary Tree Level Order Traversal
 - **14 (四)** 105. Construct Binary Tree from Preorder and Inorder Traversal
 - **15 (五)** 695. Max Area of Island
-- **16 (六)**
+- **16 (六)** 576. Out of Boundary Paths
 - **17 (日)**
 
 ---
