@@ -30,7 +30,7 @@
 ---
 
 - **18 (一)** 1074. Number of Submatrices That Sum to Target
-- **19 (二)**
+- **19 (二)** 118. Pascal's Triangle
 - **20 (三)**
 - **21 (四)** 
 - **22 (五)** 
