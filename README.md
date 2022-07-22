@@ -33,7 +33,7 @@
 - **19 (二)** 118. Pascal's Triangle
 - **20 (三)** 792. Number of Matching Subsequences
 - **21 (四)** 92. Reverse Linked List II
-- **22 (五)** 
+- **22 (五)** 86. Partition List
 - **23 (六)**
 - **24 (日)**
 
