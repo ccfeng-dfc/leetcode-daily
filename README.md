@@ -34,7 +34,7 @@
 - **20 (三)** 792. Number of Matching Subsequences
 - **21 (四)** 92. Reverse Linked List II
 - **22 (五)** 86. Partition List
-- **23 (六)**
+- **23 (六)** 315. Count of Smaller Numbers After Self
 - **24 (日)**
 
 ---
