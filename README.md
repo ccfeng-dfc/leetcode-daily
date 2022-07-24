@@ -35,7 +35,7 @@
 - **21 (四)** 92. Reverse Linked List II
 - **22 (五)** 86. Partition List
 - **23 (六)** 315. Count of Smaller Numbers After Self
-- **24 (日)**
+- **24 (日)** 240. Search a 2D Matrix II
 
 ---
 
