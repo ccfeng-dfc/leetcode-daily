@@ -40,7 +40,7 @@
 ---
 
 - **25 (一)** 34. Find First and Last Position of Element in Sorted Array
-- **26 (二)**
+- **26 (二)** 236. Lowest Common Ancestor of a Binary Tree
 - **27 (三)**
 - **28 (四)** 
 - **29 (五)** 
