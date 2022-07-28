@@ -42,7 +42,7 @@
 - **25 (一)** 34. Find First and Last Position of Element in Sorted Array
 - **26 (二)** 236. Lowest Common Ancestor of a Binary Tree
 - **27 (三)** 114. Flatten Binary Tree to Linked List
-- **28 (四)** 
+- **28 (四)** 242. Valid Anagram
 - **29 (五)** 
 - **30 (六)**
 - **31 (日)**
