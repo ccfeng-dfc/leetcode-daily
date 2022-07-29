@@ -43,7 +43,7 @@
 - **26 (二)** 236. Lowest Common Ancestor of a Binary Tree
 - **27 (三)** 114. Flatten Binary Tree to Linked List
 - **28 (四)** 242. Valid Anagram
-- **29 (五)** 
+- **29 (五)** 890. Find and Replace Pattern
 - **30 (六)**
 - **31 (日)**
 
