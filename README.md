@@ -45,7 +45,7 @@
 - **28 (四)** 242. Valid Anagram
 - **29 (五)** 890. Find and Replace Pattern
 - **30 (六)** 916. Word Subsets
-- **31 (日)**
+- **31 (日)** 307. Range Sum Query - Mutable
 
 ## 2022-06
 ---
