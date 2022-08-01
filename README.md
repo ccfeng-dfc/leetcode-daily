@@ -1,5 +1,9 @@
 # LeetCode Daily Challenge
 
+## 2022-0
+---
+- **01 (一)** 62. Unique Paths
+
 ## 2022-07
 ---
 
