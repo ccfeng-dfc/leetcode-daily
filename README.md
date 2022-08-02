@@ -3,6 +3,7 @@
 ## 2022-0
 ---
 - **01 (一)** 62. Unique Paths
+- **02 (二)** 378. Kth Smallest Element in a Sorted Matrix
 
 ## 2022-07
 ---
