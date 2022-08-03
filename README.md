@@ -1,9 +1,10 @@
 # LeetCode Daily Challenge
 
-## 2022-0
+## 2022-08
 ---
 - **01 (一)** 62. Unique Paths
 - **02 (二)** 378. Kth Smallest Element in a Sorted Matrix
+- **03 (三)** 729. My Calendar I
 
 ## 2022-07
 ---
