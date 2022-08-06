@@ -6,7 +6,8 @@
 - **02 (二)** 378. Kth Smallest Element in a Sorted Matrix
 - **03 (三)** 729. My Calendar I
 - **04 (四)** 858. Mirror Reflection
-- **05 ()** 377. Combination Sum IV
+- **05 (五)** 377. Combination Sum IV
+- **06 (六)** 458. Poor Pigs
 
 ## 2022-07
 ---
