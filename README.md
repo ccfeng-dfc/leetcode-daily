@@ -8,6 +8,7 @@
 - **04 (四)** 858. Mirror Reflection
 - **05 (五)** 377. Combination Sum IV
 - **06 (六)** 458. Poor Pigs
+- **07 (日)** 1220. Count Vowels Permutation
 
 ## 2022-07
 ---
