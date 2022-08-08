@@ -2,6 +2,7 @@
 
 ## 2022-08
 ---
+
 - **01 (一)** 62. Unique Paths
 - **02 (二)** 378. Kth Smallest Element in a Sorted Matrix
 - **03 (三)** 729. My Calendar I
@@ -9,6 +10,18 @@
 - **05 (五)** 377. Combination Sum IV
 - **06 (六)** 458. Poor Pigs
 - **07 (日)** 1220. Count Vowels Permutation
+
+---
+
+- **08 (一)** 300. Longest Increasing Subsequence
+- **09 (二)** 
+- **10 (三)** 
+- **11 (四)** 
+- **12 (五)** 
+- **13 (六)** 
+- **14 (日)** 
+
+---
 
 ## 2022-07
 ---
