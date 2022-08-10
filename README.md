@@ -15,7 +15,7 @@
 
 - **08 (一)** 300. Longest Increasing Subsequence
 - **09 (二)** 823. Binary Trees With Factors
-- **10 (三)** 
+- **10 (三)** 108. Convert Sorted Array to Binary Search Tree
 - **11 (四)** 
 - **12 (五)** 
 - **13 (六)** 
