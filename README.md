@@ -21,8 +21,10 @@
 - **13 (六)** 
 - **14 (日)** 
 
+---
 
 13. Roman to Integer
+387. First Unique Character in a String
 ---
 
 ## 2022-07
