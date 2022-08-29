@@ -33,7 +33,7 @@
 - **21 (日)** 
 
 22 342. Power of Four  
-CTBC Brothers. 保拉JOSH 
+CTBC Brothers. 保拉JOSH  
 ---
 
 ## 2022-07
