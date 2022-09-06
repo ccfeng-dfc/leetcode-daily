@@ -19,7 +19,7 @@
 - **11 (四)** 98. Validate Binary Search Tree
 - **12 (五)** CTBC Brothers. 
 - **13 (六)** 
-- **14 (日)**  28meat
+- **14 (日)**  28meat 
 
 
 ---
